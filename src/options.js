@@ -14,13 +14,9 @@ let options = {
 
     someLoadUrl: '', //url,筛选
 
-    parameterName: '' , //参数
-
     inputMaxSize: 20, //单次输入最大长度
 
     afterDisable: true, //选择后不可以再选择
-
-    cache: true //是否设置缓存
 	
 };
 
